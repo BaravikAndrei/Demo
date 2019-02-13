@@ -1,3 +1,0 @@
-some text
-else text
-some else
